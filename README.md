@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20Hwajin's%20Github&fontSize=70)
+  <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20Hwajin's%20Github&fontSize=70)-->
   
   <br />
   
@@ -11,8 +11,8 @@
     <a href="mailto:jamong@kakao.com">
       <img src="https://img.shields.io/badge/jamong@kakao.com-000000?style=flat&logo=KakaoTalk&logoColor=#000000"/>
     </a>
-    <a href="mailto:realpcy04@gmail.com">
-      <img src="https://img.shields.io/badge/realpcy04@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+    <a href="mailto:hwajin3114@gmail.com">
+      <img src="https://img.shields.io/badge/hwajin3114@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
     </a>
   </div>
 <!--   <img src="https://img.shields.io/badge/ihwajin3114-655D8A?style=flat&logo=Bloglovin&logoColor=#000000"/> -->
