@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div>
 
-<h2>✉️ Contact ✉️</h2>
+<h2>✉️ Contacts ✉️</h2>
 
 <div>
   <!--<a href="https://twitter.com/ihwajin3114">
