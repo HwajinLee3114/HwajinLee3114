@@ -19,7 +19,11 @@
 
 [![HwajinLee3114 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HwajinLee3114&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HwajinLee3114)
 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwajin3114">
+<h2>👾 Algorithm 👾</h2>
+<div>
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwajin3114">
+  <img src="http://mazandi.herokuapp.com/api?handle=hwajin3114&theme=warm"/>
+</div>
 
 <h2>✉️ Contacts ✉️</h2>
 
