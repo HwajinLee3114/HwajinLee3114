@@ -1,6 +1,6 @@
 ## This is Hwajin👩🏻‍💻
 
-<h2>📚 Study 📚</h2>
+<h2>📚 Skills 📚</h2>
 
 <div>
   <h3>Back-end</h3>
