@@ -3,19 +3,29 @@
 <h2>📚 Skills 📚</h2>
 
 <div>
-  <div>
-    <h3>Front-end</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,tailwind,styledcomponents,nextjs&theme=light" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=vite,jest,vercel,netlify&theme=light" />
-  </div>
+  <h3>Front-end Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,tailwind,styledcomponents,nextjs&theme=light" />
   
-  <h3>Back-end & Database</h3>
+  <h3>Front-end Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vite,jest&theme=light" />
+</div>
+
+<div>
+  <h3>DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=light" />
+</div>
+  
+<div>
+  <h3>Back-end</h3>
   <img src="https://skillicons.dev/icons?i=java,spring&theme=light" />
+</div>
+
+<div>
+  <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=supabase,mysql&theme=light" />
-  <br />
+<!--   <br />
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/> -->
 </div>
 
 <div>
