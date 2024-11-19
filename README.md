@@ -7,12 +7,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,tailwind,styledcomponents,nextjs&theme=light" />
   
   <h3>Front-end Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vite,jest&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=light" />
 </div>
 
 <div>
-  <h3>DevOps</h3>
+  <h3>DevOps & Testing</h3>
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=jest&theme=light" />
 </div>
   
 <!--   <div>
