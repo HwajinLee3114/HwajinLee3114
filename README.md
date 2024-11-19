@@ -15,10 +15,10 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=light" />
 </div>
   
-<div>
+<!--   <div>
   <h3>Back-end</h3>
   <img src="https://skillicons.dev/icons?i=java,spring&theme=light" />
-</div>
+</div> -->
 
 <div>
   <h3>Database</h3>
