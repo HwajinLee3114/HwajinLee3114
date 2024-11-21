@@ -51,15 +51,12 @@
 
 <h2>✉️ Contacts ✉️</h2>
 
-<div>
-  <!--<a href="https://twitter.com/ihwajin3114">
-    <img src="https://img.shields.io/badge/@ihwajin3114-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
-  </a>-->
+<!--   <div>
   <a href="mailto:jamong@kakao.com">
     <img src="https://img.shields.io/badge/jamong@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/>
   </a>
   <a href="mailto:hwajin3114@gmail.com">
     <img src="https://img.shields.io/badge/hwajin3114@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-</div>
+</div> -->
 <!--   <img src="https://img.shields.io/badge/ihwajin3114-655D8A?style=flat&logo=Bloglovin&logoColor=#000000"/> -->
