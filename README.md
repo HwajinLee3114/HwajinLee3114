@@ -49,9 +49,10 @@
   <img src="http://mazandi.herokuapp.com/api?handle=hwajin3114&theme=warm" alt="Badge 2">
 </div>
 
+<!--
 <h2>✉️ Contacts ✉️</h2>
 
-<!--   <div>
+<div>
   <a href="mailto:jamong@kakao.com">
     <img src="https://img.shields.io/badge/jamong@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/>
   </a>
