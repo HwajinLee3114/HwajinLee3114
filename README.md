@@ -38,9 +38,21 @@
 
 <h2>🌿 Stats 🌿</h2>
 
-[![HwajinLee3114's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwajinLee3114)](https://github.com/HwajinLee3114/github-readme-stats)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <a href="https://github.com/HwajinLee3114/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HwajinLee3114" alt="HwajinLee3114's GitHub stats" />
+  </a>
+  
+  <a href="https://github.com/HwajinLee3114">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwajinLee3114&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="HwajinLee3114 github stats" />
+  </a>
+</div>
 
+<!--
+[![HwajinLee3114's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwajinLee3114)](https://github.com/HwajinLee3114/github-readme-stats)
+  
 [![HwajinLee3114 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HwajinLee3114&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HwajinLee3114)
+-->
 
 <h2>👾 Algorithm 👾</h2>
 
