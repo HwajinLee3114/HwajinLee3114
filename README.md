@@ -13,7 +13,7 @@
 <div>
   <h3>DevOps & Testing</h3>
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=light" />
-  <img src="https://skillicons.dev/icons?i=jest&theme=light" />
+<!--   <img src="https://skillicons.dev/icons?i=jest&theme=light" /> -->
 </div>
   
 <!--   <div>
